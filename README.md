@@ -11,13 +11,13 @@ A Python hacking tool for WPS Attack WPA / WPA2 Attack Offline Captured file cra
 
 ## INSTALLATION
 ```
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install git -y
-sudo apt-get install python3 -y
-sudo git  clone https://github.com/Punker-Bhai/sudo-wifi.git
+apt-get update
+apt-get upgrade -y
+apt-get install git -y
+apt-get install python3 -y
+git  clone https://github.com/Punker-Bhai/sudo-wifi.git
 cd sudo-wifi
-sudo python3 wifi.py
+python3 wifi.py
 ```
 ## TESTED ON
 * Kali Linux
