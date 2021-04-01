@@ -15,6 +15,7 @@ apt-get update
 apt-get upgrade -y
 apt-get install git -y
 apt-get install python3 -y
+apt-get install aircrack-ng -y
 git  clone https://github.com/Punker-Bhai/sudo-wifi.git
 cd sudo-wifi
 python3 wifi.py
