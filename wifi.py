@@ -16,7 +16,7 @@ def intro():
  \___ \|  |  / /_/ (  <_> ) /_____/  \     /|  ||  |  |  |
 /____  >____/\____ |\____/            \/\_/ |__||__|  |__|
      \/           \/                                      
-                                                        Coded By Hackerspunk
+                                                        Coded By Network Slutter
 ---------------------------------------------------------------------------------------                                                                     
 (1)Start monitor mode       
 (2)Stop monitor mode                        
@@ -188,7 +188,7 @@ you can find on Instagram
 
 https://www.instagram.com/myquotes.hb/
 
-Contact me at ~ hackerspunk.hb@gmail.com
+Contact me at ~ netslutter@pm.me
 
 Feel Free to Contact,
 
